@@ -1,4 +1,4 @@
-function stugify(title) {
+function slugify(title) {
     return title
     .toLowerCase()
     .split(" ")
