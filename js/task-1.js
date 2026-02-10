@@ -1,4 +1,4 @@
-function mslugify(title) {
+function stugify(title) {
     return title
     .toLowerCase()
     .split(" ")

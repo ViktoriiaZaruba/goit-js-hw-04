@@ -1,8 +1,8 @@
 function filterArray(numbers, value) {
     const result = [];
-    for (let numbers of value) {
-        if (numbers > value) {
-            result.push(numbers);
+    for (let number of value) {
+        if (number > value) {
+            result.push(number);
         }
     }
     return result;
